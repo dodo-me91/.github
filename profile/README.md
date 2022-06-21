@@ -8,5 +8,5 @@ dodo-me91/.github is a ✨special ✨ repository ✨
 🌈 
 👩‍💻 
 🍿 
-🧙 Remember, you can do mighty things with the power of dodo.me ✨
+🧙 Remember, you can do mighty things with the power of [dodo.me] ✨
 -->
