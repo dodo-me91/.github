@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 Whispering...
 dodo-me91/.github is a ✨special ✨ repository ✨
 **Here are some ideas to get you started:**
